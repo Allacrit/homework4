@@ -1,0 +1,12 @@
+мая 05, 2023 6:57:45 PM task3 calculation
+INFO: 8.0 + 8.0 = 16.0
+мая 05, 2023 6:57:53 PM task3 calculation
+INFO: 16.0 + 1.0 = 17.0
+мая 05, 2023 6:58:01 PM task3 calculation
+INFO: 17.0 - 7.0 = 10.0
+мая 05, 2023 6:58:02 PM task3 reset_operation
+WARNING: Отмена последней операции
+мая 05, 2023 6:58:11 PM task3 calculation
+INFO: 17.0 * 5.0 = 85.0
+мая 05, 2023 6:58:15 PM task3 main
+INFO: Завершение работы
